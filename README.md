@@ -1,2 +1,2 @@
-# Patika SQL Ödevleri
+# Patika SQL Ödevleri - Tüm Ödevler
 ## www.patika.dev
